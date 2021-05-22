@@ -8,9 +8,9 @@
 <channel>
 	<title>
 	Comments for Aditya Nigam	</title>
-	<atom:link href="http://nigam-aditya.github.io/mywebsite/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://nigam-aditya.github.io/mywebsite</link>
-	<description>Just another WordPress site</description>
+	<atom:link href="https://nigam-aditya.github.io/mywebsite/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nigam-aditya.github.io/mywebsite</link>
+	<description>Welcome</description>
 	<lastBuildDate>Fri, 21 May 2021 09:43:01 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>http://nigam-aditya.github.io/mywebsite/2021/05/21/hello-world/#comment-1</link>
+		<link>https://nigam-aditya.github.io/mywebsite/2021/05/21/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Fri, 21 May 2021 09:43:01 +0000</pubDate>
-		<guid isPermaLink="false">http://nigam-aditya.github.io/mywebsite/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://nigam-aditya.github.io/mywebsite/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.

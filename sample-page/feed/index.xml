@@ -8,9 +8,9 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="http://nigam-aditya.github.io/mywebsite/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>http://nigam-aditya.github.io/mywebsite</link>
-	<description>Just another WordPress site</description>
+	<atom:link href="https://nigam-aditya.github.io/mywebsite/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nigam-aditya.github.io/mywebsite</link>
+	<description>Welcome</description>
 	<lastBuildDate>Fri, 21 May 2021 09:43:01 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
